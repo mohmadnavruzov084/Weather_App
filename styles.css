@@ -111,3 +111,17 @@ body{
     }
     
 }
+
+@media (max-width: 400px){
+    .card{
+        padding: 40px 6px;
+    
+    
+    }
+    .col img {
+        width: 24px;
+        margin-right: 10px;
+     
+    }
+    
+}
