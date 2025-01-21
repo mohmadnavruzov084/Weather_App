@@ -96,4 +96,17 @@ body{
     font-size: 14px;
     margin-top: 10px;
     display: none;
+    
+}
+@media (max-width: 400px) {
+    .card{
+        padding: 40px 6px;
+    
+    
+    }
+    .col img {
+        width: 24px;
+        margin-right: 10px;
+    }
+    
 }
