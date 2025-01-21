@@ -98,7 +98,7 @@ body{
     display: none;
     
 }
-@media (max-width: 400px) {
+@media (max-width: 450px){
     .card{
         padding: 40px 6px;
     
@@ -107,6 +107,7 @@ body{
     .col img {
         width: 24px;
         margin-right: 10px;
+     
     }
     
 }
